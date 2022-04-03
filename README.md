@@ -84,6 +84,8 @@ You have to download Supercollider.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+<img src="screenshot.png" alt="Logo" width="700" height="350">
+
 The user can congifure fm parameters thanks to some buttons and knobs.
 The user can play from an external MIDI device or play our demo.
 The user can load or save presets from CSV formatted files.
