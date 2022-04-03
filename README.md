@@ -162,10 +162,10 @@ See the [open issues](https://github.com/polimi-cmls-22/group7-HW-SC-Radical_Gee
 <!-- CONTACT -->
 ## Contact
 
-Gerardo Cicalese- gerardo.cicalese@mail.polimi.it)
-Alberto Bollino- (alberto.bollino@mail.polimi.it)
-Umberto Derme- (umberto.derme@mail.polimi.it)
-Giorgio Granello- (giorgio.granello@mail.polimi.it)
+Gerardo Cicalese- gerardo.cicalese@mail.polimi.it) </p>
+Alberto Bollino- (alberto.bollino@mail.polimi.it) </p>
+Umberto Derme- (umberto.derme@mail.polimi.it) </p>
+Giorgio Granello- (giorgio.granello@mail.polimi.it) </p>
 
 Project Link: [https://github.com/polimi-cmls-22/group7-HW-SC-Radical_Geeks](https://github.com/polimi-cmls-22/group7-HW-SC-Radical_Geeks)
 
