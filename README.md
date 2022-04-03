@@ -131,7 +131,7 @@ The sixth row will control the topography of the FMSynth:
 3.	the third value (can be chosen between 0, 1 and 2) determine whether the modulator 3 is not active ('0') or its input comes from modulator 1 ('1') or from the carrier('2').
 4.	the fourth value (can be chosen between 0, 1 and 2) determine whether the modulator 4 is not active ('0') or its input comes from modulator 2 ('1') or from the carrier('2')	
 
-The only value of the last row will be used to select (between sine ('0'), triangle ('1') and sawtooth ('2')) the waveshape of the carrier.¬¬¬¬
+The only value of the last row will be used to select (between sine ('0'), triangle ('1') and sawtooth ('2')) the waveshape of the carrier.
 
 
 
@@ -145,12 +145,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] customizable FM synth, salvataggio e carimento file 
-- [ ] you can save and upload from file
-- [ ] you can create any sound and combine any effect
-- [ ] For playing your instrument you can either use a MIDI external device or implement a sequencing technique with supercollider
-- [ ] you can choose a sinusoidal wave, a square wave or a as master oscilation 
-- [ ] you can choose the synthesis parameters
+- [✓] customizable FM synth, salvataggio e carimento file 
+- [✓] you can save and upload from file
+- [✓] you can create any sound and combine any effect
+- [✓] For playing your instrument you can either use a MIDI external device or implement a sequencing technique with supercollider
+- [✓] you can choose a sinusoidal wave, a square wave or a as master oscilation 
+- [✓] you can choose the synthesis parameters
 
 See the [open issues](https://github.com/polimi-cmls-22/group7-HW-SC-Radical_Geeks/issues) for a full list of proposed features (and known issues).
 
