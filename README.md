@@ -186,6 +186,4 @@ Project Link: [https://github.com/polimi-cmls-22/group7-HW-SC-Radical_Geeks](htt
 [license-shield]: https://img.shields.io/github/license/polimi-cmls-22/group7-hw-SC-Radical_Geeks.svg?style=for-the-badge
 [license-url]: https://github.com/polimi-cmls-22/group7-hw-SC-Radical_Geeks/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
- [product-screenshot]: images/screenshot.png
-
-![image](https://user-images.githubusercontent.com/96493963/161432172-9a6880eb-9385-400c-9759-ccb4dbc7c476.png)
+[product-screenshot]: images/screenshot.png
