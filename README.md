@@ -118,6 +118,13 @@ Furthermore,  the user can create the FMSynth architecture that he likes the mos
 3. 'Right path active / Right path active inactive': Activation of the right feed forward chain (enabling/disabling the modulator 4, directly connected to the carrier).
 4. 'Not active / Input from 2 / Feedback': Mode of operation of the right feed forward chain (choosing whether the input of the modulator 4 is no input or the output of modulator 2 or the carrier (feedback)).
 
+## Play demo
+Thanks to the 'Play demo / Stop demo' button the user can listen to a demo song created by the Team, in order to let him hear what sounds can be created via the FMSynth.
+DISCLAIMER: when the demo song is playing only the 'Master Volume' and 'Master Panning' knobs will be active.
+
+## Real time scope and frequency scope
+The user will have a real time feedback of what he's playing thanks to the Scope and Frequency scope windows placed to the right end of the GUI.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
