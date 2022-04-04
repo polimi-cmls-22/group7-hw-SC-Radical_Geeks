@@ -117,7 +117,7 @@ The only value of the last row will be used to select (between sine ('0'), trian
 
 - [✓] customizable FM synth
 - [✓] you can save and load patterns
-- [✓] you can the FM synth as an instrument with a MIDI external device
+- [✓] you can use the FM synth as an instrument with a MIDI external device
 - [✓] you can play our demo
 - [✓] you can choose between a sinusoidal wave, a square wave or a sawtooth wave as carrier
 - [✓] you can choose the synthesis parameters (ratio and index)
