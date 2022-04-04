@@ -90,6 +90,7 @@ The user can congifure fm parameters thanks to some buttons and knobs.
 The user can play from an external MIDI device or play our demo.
 The user can load or save presets from CSV formatted files.
 
+The CSV file must have the following structure:
 The first four rows of the CSV file will control respectively the knobs of the four modulators in the following way:
 1.	the first value of the i-th row sets the ratio of the i-th modulator (values must be in the [0.1, 20] range with step=0.5). 
 2.	the second value of the i-th row sets the attack of the i-th modulator (values must be in the [0.001, 2] range with step=0.01). 
@@ -109,6 +110,13 @@ The sixth row will control the algorithm of the FMSynth:
 4.	the fourth value (can be chosen between 0, 1 and 2) determine whether the modulator 4 is not active ('0') or its input comes from modulator 2 ('1') or from the carrier ('2')	
 
 The only value of the last row will be used to select (between sine ('0'), triangle ('1') and sawtooth ('2')) the waveshape of the carrier.
+
+
+Furthermore,  the user can create the FMSynth architecture that he likes the most. This can be done thanks to 4 buttons in the GUI: 
+1. 'Left path active / Left path active inactive': Activation of the left feed forward chain (enabling/disabling the modulator 3, directly connected to the carrier).
+2. 'Not active / Input from 1 / Feedback': Mode of operation of the left feed forward chain (choosing whether the input of the modulator 3 is no input or the output of modulator 1 or the carrier (feedback)).
+3. 'Right path active / Right path active inactive': Activation of the right feed forward chain (enabling/disabling the modulator 4, directly connected to the carrier).
+4. 'Not active / Input from 2 / Feedback': Mode of operation of the right feed forward chain (choosing whether the input of the modulator 4 is no input or the output of modulator 2 or the carrier (feedback)).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
