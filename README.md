@@ -19,8 +19,6 @@
     <br />
     <a href="https://github.com/polimi-cmls-22/group7-HW-SC-Radical_Geeks"><strong>Explore the docs»</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/polimi-cmls-22/group7-HW-SC-Radical_Geeks">View Demo</a>
   </p>
 </div>
 
@@ -48,8 +46,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -59,10 +55,7 @@
 
 * [Supercollider](https://supercollider.github.io/)
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -75,11 +68,8 @@ You have to download Supercollider.
 2. Install Supercollider
 3. Run the sclang script
 4. Experiment with the synth and create awesome sounds!
-   
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
- 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -110,7 +100,6 @@ The sixth row will control the algorithm of the FMSynth:
 4.	the fourth value (can be chosen between 0, 1 and 2) determine whether the modulator 4 is not active ('0') or its input comes from modulator 2 ('1') or from the carrier ('2')	
 
 The only value of the last row will be used to select (between sine ('0'), triangle ('1') and sawtooth ('2')) the waveshape of the carrier.
-
 
 Furthermore,  the user can create the FMSynth architecture that he likes the most. This can be done thanks to 4 buttons in the GUI: 
 1. 'Left path active / Left path active inactive': Activation of the left feed forward chain (enabling/disabling the modulator 3, directly connected to the carrier).
@@ -161,4 +150,4 @@ Project Link: [https://github.com/polimi-cmls-22/group7-HW-SC-Radical_Geeks](htt
 [forks-shield]: https://img.shields.io/github/forks/polimi-cmls-22/group7-hw-SC-Radical_Geeks.svg?style=for-the-badge
 [forks-url]: https://github.com/polimi-cmls-22/group7-hw-SC-Radical_Geeks/network/members
 [stars-shield]: https://img.shields.io/github/stars/polimi-cmls-22/group7-hw-SC-Radical_Geeks.svg?style=for-the-badge
-[stars-url]: https://github.com/polimi-cmls-22/repo_name/stargazers
+[stars-url]: https://github.com/polimi-cmls-22/group7-hw-SC-Radical_Geeks/stargazers
